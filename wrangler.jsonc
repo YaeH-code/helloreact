@@ -1,7 +1,4 @@
 {
   "name": "hello-react",
-  "compatibility_date": "2025-10-27",
-  "site": {
-    "bucket": "./build"
-  }
+  "compatibility_date": "2025-10-27"
 }
